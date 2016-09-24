@@ -1,0 +1,9 @@
+< ? xml version="1.0" encoding"utf-8"? >
+< RevitAddIns>
+< AddIn Type="Command">
+< Assembly> C:\Users\ji\Source\Repos\NewRepo\HelloRevit\bin\Debug\HelloRevit.dll< /Assembly>
+< ClientId> 7d4e1893-3a27-4df2-8075-4fa3754537aa< /ClientId>
+< FullClassName> HelloRevit.Class1< /FullClassName>
+< VendorId> ADSK< /VendorId>
+< /AddIn>
+< /RevitAddIns>
