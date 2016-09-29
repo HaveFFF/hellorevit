@@ -1,0 +1,9 @@
+< ? xml version="1.0" encoding"utf-8"? >
+< RevitAddIns>
+< AddIn Type="Application">
+< Assembly> C:\Users\ji\Source\Repos\NewRepo\HelloRevit\bin\Debug\HelloRevit.dll< /Assembly>
+< AddIn> 6cdba932-c058-4ec1-b038-33ed590c41d3c< /AddIn>
+< FullClassName> HelloRevit.CsAddpanel< /FullClassName>
+< VendorId> ADSK< /VendorId>
+< /AddIn>
+< /RevitAddIns>
